@@ -1,2 +1,1 @@
-# Disable-Tamper-Realtime-Protection
-To be used in Defeat-Defender script
+To see the code just open file in hex-editor
